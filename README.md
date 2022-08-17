@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @roystonhuan. Linkedin: https://www.linkedin.com/in/roystonhuan/
+- 👀 Interested in the study of commodity markets. 
+- 🌱 Currently learning how to build robust, effective datasets and charts for commodities trading. Hopefully, in the future I can come up with some proprietary predictive modeling.
+- 📫 How to reach me: connect via linkedin.
